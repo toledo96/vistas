@@ -1,0 +1,8 @@
+.maleta{
+    background: transparent url('../img/maleta.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+    border-radius: 20px;
+}
